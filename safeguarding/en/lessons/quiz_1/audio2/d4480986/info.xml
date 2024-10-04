@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<mediaClip denoised="false" endTrimDuration="0" startTrimDuration="0" version="1">
+
+  <files>
+    <file id="1" path="..\files\19ae5f19.mp3"/>
+  </files>
+
+  <dataChunks>
+    <fileChunk fileId="1">
+      <range duration="15024" startTime="0"/>
+    </fileChunk>
+  </dataChunks>
+
+  <customProperties>
+    <property key="ttsObject" value="ewogInRleHQiOiAiVGV4dCBmb3IgdGhlIHZvaWNlb3ZlcjogQSBncmVhdCB3YXkgdG8gbWFrZSB0aGUgaW5mb3JtYXRpb24gaW4geW91ciBjb250ZW50IGNvbWUgYWxpdmUgaXMgdG8gcmVjb3JkIGEgdm9pY2VvdmVyLiBZb3UgY2FuIGFsc28gdHVybiB3cml0dGVuIHRleHQgaW50byBzcG9rZW4gd29yZHMgYnkgdXNpbmcgVGV4dCB0byBTcGVlY2gsIGZvdW5kIGluIHRoZSBJbnNlcnQgQXVkaW8gc2VjdGlvbiBvZiB0aGUgdG9vbGJhci4iLAogInZvaWNlSWQiOiAiZW4tVVMtTmV1cmFsMi1GIiwKICJsYW5ndWFnZUNvZGUiOiAiZW4tVVMiLAogInN5bnRoZXNpemVySWQiOiAiZ29vZ2xlIiwKICJpc1RleHRSVEwiOiBmYWxzZQp9Cg=="/>
+  </customProperties>
+
+</mediaClip>
